@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+  }
+  
+  .bg { 
+    /* The image used */
+    background-image: url("images/13146.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .logo {      
+      width: 600px;
+      height: 600px;
+      line-height: 400px;
+      text-align: center;
+      background-image: url("images/logo.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+  
+  }
